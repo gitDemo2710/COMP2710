@@ -1,4 +1,5 @@
 //Quiz7
+//John Whaley
 
 #include <iostream>
 using namespace std;
