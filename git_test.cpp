@@ -13,6 +13,7 @@ void display ()
 {
  cout << "Xuechao Li" << endl;
 <<<<<<< HEAD
+ cout << "Jackson Smith" << endl;
 =======
  cout << "Christopher Acosta" << endl;
  cout << "Fowler Walker" <<endl;
