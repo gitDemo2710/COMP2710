@@ -28,6 +28,7 @@ void display ()
 >>>>>>> e9275bb3855878cf6e954fc9484e389eee485829
 =======
  cout << "Patrick Roberts" << endl;
+cout << "Collier Robinson" << endl;
 >>>>>>> e251195a0cb98a3f790535f935c26233e87e86ed
  cout << "update" << endl;
 >>>>>>> e251195a0cb98a3f790535f935c26233e87e86ed
