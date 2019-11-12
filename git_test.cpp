@@ -1,3 +1,4 @@
+//Quiz7
 
 #include <iostream>
 using namespace std;
@@ -15,19 +16,17 @@ void display ()
  cout << "James Barr" << endl;
  cout << "Ryan Nagy" << endl;
  cout << "Nate Henty" << endl;
+cout << "Nate Henty" << endl;
  cout << "Jonathan Blackburn" << endl;
  cout << "Madison Austin" << endl;
  cout << "Houston Walley" << endl;
  cout << "Leslie Blair Owens" << endl;
  cout << "Thomas Hansknecht" << endl;
  cout << "William Melton" << endl;
- cout << "Caleb Fahlgreen" << endl;
- cout << "William Melton" << endl;
  cout << "Caleb Fahlgren" << endl;
  cout << "Anne Marie Bonadio" << endl;
- cout << "Tyler Hirin" << endl;
+ cout << "Tyler Hirn" << endl;
  cout << "Jacob Howard" << endl;
- cout << "Byron Prather" << endl;
  cout << "Elizabeth Truong" << endl;
  cout << "Jason Barbieri" << endl;
  cout << "Connor Taylor" << endl;
@@ -44,7 +43,6 @@ void display ()
  cout << "John Spencer" << endl;
  cout << "Alfred Spies" << endl;
  cout << "Patrick Roberts" << endl;
- cout << "Collier Robinson" << endl;
  cout << "Rayshaun Bagsby" << endl;
  cout << "Collier Robinson" << endl;
  cout << "Tucker Adkison" << endl;
@@ -54,12 +52,8 @@ void display ()
  cout << "Naman Gupta" << endl;
  cout << "Branson Holt" << endl;
  cout << "Bobby Sharp" << endl;
- cout << "Bobby Sharp" << endl;=
+ cout << "Connor Morris" << endl;
  cout << "Nicolas Rios" << endl;
  cout << "Connor Morris" << endl;
- cout << "Arju Reza" << endl;
- cout << "Bobby Sharp" << endl;
- cout << "John Whaley" << endl;
- cout << "Ravyn Lewis" << endl;
 }
 
