@@ -11,6 +11,7 @@ int main()
 }
 void display ()
 {
+ cout << "Devan Thomas" << endl;
  cout << "Xuechao Li" << endl;
 <<<<<<< HEAD
 <<<<<<< HEAD
