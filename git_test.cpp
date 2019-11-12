@@ -48,8 +48,6 @@ void display ()
  cout << "Branson Holt" << endl;
  cout << "Nicolas Rios" << endl;
  cout << "Connor Morris" << endl;
- cout << "Bobby Sharp" << endl;=
- cout << "Connor Morris" << endl;
  cout << "Bobby Sharp" << endl;
 }
 
