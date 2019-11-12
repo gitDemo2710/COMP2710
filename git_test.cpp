@@ -11,6 +11,16 @@ int main()
 }
 void display ()
 {
+ cout << "Devan Thomas" << endl;
  cout << "Xuechao Li" << endl;
+<<<<<<< HEAD
  cout << "Alfred Spies" << endl;
+=======
+<<<<<<< HEAD
+ cout << "Fowler Walker" <<endl;
+=======
+ cout << "Patrick Roberts" << endl;
+ cout << "update" << endl;
+>>>>>>> e251195a0cb98a3f790535f935c26233e87e86ed
+>>>>>>> 15c2410f4fed2ce8b5a10d5d61b0daa57695e69d
 }
