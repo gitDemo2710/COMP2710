@@ -13,6 +13,9 @@ void display ()
 {
  cout << "Xuechao Li" << endl;
 cout << "Nate Henty" << endl;
+ cout << "Madison Austin" << endl;
+ cout << "Houston Walley" << endl;
+ cout << "Leslie Blair Owens" << endl;
  cout << "Thomas Hansknecht" << endl;
  cout << "William Melton" << endl;
  cout << "Caleb Fahlgren" << endl;
@@ -47,5 +50,6 @@ cout << "Collier Robinson" << endl;
  cout << "Connor Morris" << endl;
  cout << "Bobby Sharp" << endl;=
  cout << "Connor Morris" << endl;
+ cout << "Bobby Sharp" << endl;
 }
 
