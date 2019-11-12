@@ -35,6 +35,7 @@ void display ()
  cout << "Patrick Roberts" << endl;
  cout << "Tucker Adkison" << endl;
  cout << "Patrick Spafford" << endl;
+ cout << "Dylan Dunn" << endl;
  cout << "update" << endl;
 }
 
