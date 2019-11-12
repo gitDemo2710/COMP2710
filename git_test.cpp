@@ -12,6 +12,6 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
- cout << "Elizabeth Truong" << endl;
+ Cout << "Elizabeth Truong" << endl;
  cout << "update" << endl;
 }
