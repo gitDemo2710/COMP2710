@@ -13,6 +13,7 @@ void display ()
  cout << "Xuechao Li" << endl;
  cout << "Ryan Nagy" << endl;
  cout << "Madison Austin" << endl;
+ cout << "Houston Walley" << endl;
  cout << "Leslie Blair Owens" << endl;
  cout << "Thomas Hansknecht" << endl;
  cout << "William Melton" << endl;
@@ -36,7 +37,10 @@ void display ()
  cout << "John Spencer" << endl;
  cout << "Alfred Spies" << endl;
  cout << "Patrick Roberts" << endl;
+<<<<<<< HEAD
  cout << "Collier Robinson" << endl;
+=======
+>>>>>>> 0748f0347aa3ed1a93fa35acfe6efddab268e9b6
  cout << "Rayshaun Bagsby" << endl;
  cout << "Collier Robinson" << endl;
  cout << "Tucker Adkison" << endl;
@@ -47,6 +51,8 @@ void display ()
  cout << "Branson Holt" << endl;
  cout << "Bobby Sharp" << endl;
  cout << "Bobby Sharp" << endl;=
+ cout << "Nicolas Rios" << endl;
  cout << "Connor Morris" << endl;
+ cout << "Bobby Sharp" << endl;
 }
 
