@@ -43,12 +43,9 @@ cout << "Collier Robinson" << endl;
  cout << "Ty Brunner" << endl;
  cout << "Patrick Spafford" << endl;
  cout << "Dylan Dunn" << endl;
- cout << "update" << endl;
  cout << "Naman Gupta" << endl;
  cout << "Branson Holt" << endl;
-<<<<<<< HEAD
- cout << "Bobby Sharp" << endl;
-=======
+ cout << "Bobby Sharp" << endl;=
  cout << "Connor Morris" << endl;
 }
 
