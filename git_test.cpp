@@ -12,6 +12,8 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
+ cout << "Nate Henty" << endl;
+ cout << "Jonathan Blackburn" << endl;
  cout << "Madison Austin" << endl;
  cout << "Houston Walley" << endl;
  cout << "Leslie Blair Owens" << endl;
@@ -26,7 +28,7 @@ void display ()
  cout << "Connor Taylor" << endl;
  cout << "Justin Tran" << endl;
  cout << "Ryan Hernandez" << endl;
-cout << "Swati Baskiyar" << endl;
+ cout << "Swati Baskiyar" << endl;
  cout << "Christopher Acosta" << endl;
  cout << "Fowler Walker" <<endl;
  cout << "Haoqian Li" << endl;
@@ -37,8 +39,8 @@ cout << "Swati Baskiyar" << endl;
  cout << "John Spencer" << endl;
  cout << "Alfred Spies" << endl;
  cout << "Patrick Roberts" << endl;
-cout << "Rayshaun Bagsby" << endl;
-cout << "Collier Robinson" << endl;
+ cout << "Rayshaun Bagsby" << endl;
+ cout << "Collier Robinson" << endl;
  cout << "Tucker Adkison" << endl;
  cout << "Ty Brunner" << endl;
  cout << "Patrick Spafford" << endl;
@@ -48,6 +50,5 @@ cout << "Collier Robinson" << endl;
  cout << "Bobby Sharp" << endl;
  cout << "Connor Morris" << endl;
  cout << "Nicolas Rios" << endl;
- cout << "Connor Morris" << endl;
 }
 
