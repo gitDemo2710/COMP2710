@@ -12,6 +12,10 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
+<<<<<<< HEAD
  cout << "Christopher Acosta" << endl;
+=======
+ cout << "Patrick Roberts" << endl;
+>>>>>>> e251195a0cb98a3f790535f935c26233e87e86ed
  cout << "update" << endl;
 }
