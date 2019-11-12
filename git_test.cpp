@@ -18,11 +18,14 @@ void display ()
  cout << "Houston Walley" << endl;
  cout << "Leslie Blair Owens" << endl;
  cout << "Thomas Hansknecht" << endl;
+cout << "William Melton" << endl;
+ cout << "Caleb Fahlgreen" << endl;
  cout << "William Melton" << endl;
  cout << "Caleb Fahlgren" << endl;
  cout << "Anne Marie Bonadio" << endl;
- cout << "Tyler Hirn" << endl;
+ cout << "Tyler Hirin" << endl;
  cout << "Jacob Howard" << endl;
+ cout << "Byron Prather" << endl;
  cout << "Elizabeth Truong" << endl;
  cout << "Jason Barbieri" << endl;
  cout << "Connor Taylor" << endl;
@@ -53,5 +56,6 @@ void display ()
  cout << "Nicolas Rios" << endl;
  cout << "Connor Morris" << endl;
  cout << "Bobby Sharp" << endl;
+ cout << "John Whaley" << endl;
 }
 
