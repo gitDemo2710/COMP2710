@@ -12,15 +12,16 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
-<<<<<<< HEAD
  cout << "Madison Austin" << endl;
  cout << "Leslie Blair Owens" << endl;
  cout << "Thomas Hansknecht" << endl;
-cout << "William Melton" << endl;
+ cout << "William Melton" << endl;
  cout << "Caleb Fahlgren" << endl;
  cout << "Anne Marie Bonadio" << endl;
  cout << "Tyler Hirn" << endl;
  cout << "Jacob Howard" << endl;
+=======
+ cout << "Elizabeth Truong" << endl;
 =======
 <<<<<<< HEAD
  cout << "Jason Barbieri" << endl;
