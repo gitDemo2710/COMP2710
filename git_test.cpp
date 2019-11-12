@@ -18,6 +18,9 @@ void display ()
  cout << "Fowler Walker" <<endl;
  cout << "John Spencer" << endl;
  cout << "Fowler Walker" <<endl;
+ cout << "Chad Beibide" << endl;
+ cout << "William Hutto" << endl;
+ cout << "Alfred Spies" << endl;
  cout << "Devan Thomas" << endl;
  cout << "Jonathan Bartlett" << endl;
  cout << "John Spencer" << endl;
