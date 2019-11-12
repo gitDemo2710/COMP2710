@@ -14,13 +14,22 @@ void display ()
  cout << "Devan Thomas" << endl;
  cout << "Xuechao Li" << endl;
 <<<<<<< HEAD
+<<<<<<< HEAD
  cout << "Alfred Spies" << endl;
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+ cout << "John Spencer" << endl;
+=======
+>>>>>>> dcca49a36cce3106288177a3f0fbd04ae31c637a
  cout << "Fowler Walker" <<endl;
+>>>>>>> 15c2410f4fed2ce8b5a10d5d61b0daa57695e69d
 =======
  cout << "Patrick Roberts" << endl;
+>>>>>>> e251195a0cb98a3f790535f935c26233e87e86ed
  cout << "update" << endl;
 >>>>>>> e251195a0cb98a3f790535f935c26233e87e86ed
 >>>>>>> 15c2410f4fed2ce8b5a10d5d61b0daa57695e69d
 }
+cout << "Tucker Adkison" << endl;
