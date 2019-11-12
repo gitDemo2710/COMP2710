@@ -44,9 +44,7 @@ cout << "Collier Robinson" << endl;
  cout << "Dylan Dunn" << endl;
  cout << "Naman Gupta" << endl;
  cout << "Branson Holt" << endl;
-<<<<<<< HEAD
- cout << "Bobby Sharp" << endl;
-=======
+ cout << "Bobby Sharp" << endl;=
  cout << "Connor Morris" << endl;
 }
 
