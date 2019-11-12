@@ -1,4 +1,4 @@
-/i/Quiz7
+//Quiz7
 
 #include <iostream>
 using namespace std;
