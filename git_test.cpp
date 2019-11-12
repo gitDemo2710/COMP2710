@@ -12,8 +12,11 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
+<<<<<<< HEAD
  cout << "Jonathan Blackburn" << endl;
  cout << "Madison Austin" << endl;
+ cout << "Madison Austin" << endl;
+ cout << "Houston Walley" << endl;
  cout << "Leslie Blair Owens" << endl;
  cout << "Thomas Hansknecht" << endl;
  cout << "William Melton" << endl;
@@ -49,5 +52,6 @@ void display ()
  cout << "Connor Morris" << endl;
  cout << "Bobby Sharp" << endl;=
  cout << "Connor Morris" << endl;
+ cout << "Bobby Sharp" << endl;
 }
 
