@@ -11,26 +11,27 @@ int main()
 }
 void display ()
 {
- cout << "Devan Thomas" << endl;
  cout << "Xuechao Li" << endl;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+ cout << "Christopher Acosta" << endl;
+ cout << "Fowler Walker" <<endl;
+ cout << "Chad Beibide" << endl;
+ cout << "William Hutto" << endl;
+ cout << "Devan Thomas" << endl;
  cout << "Jonathan Bartlett" << endl;
-=======
- cout << "Fowler Walker" <<endl;
->>>>>>> e2a7e330116461acfd7e06096ced406d01c3da4e
-=======
  cout << "John Spencer" << endl;
-=======
- cout << "Fowler Walker" <<endl;
->>>>>>> 15c2410f4fed2ce8b5a10d5d61b0daa57695e69d
->>>>>>> e9275bb3855878cf6e954fc9484e389eee485829
-=======
+ cout << "Alfred Spies" << endl;
  cout << "Patrick Roberts" << endl;
+<<<<<<< HEAD
 cout << "Collier Robinson" << endl;
 >>>>>>> e251195a0cb98a3f790535f935c26233e87e86ed
+=======
+ cout << "Tucker Adkison" << endl;
+ cout << "Ty Brunner" << endl;
+ cout << "Patrick Spafford" << endl;
+ cout << "Dylan Dunn" << endl;
+>>>>>>> 529fbb72e77a54fceb7f7619f0afccd2f3bf9420
  cout << "update" << endl;
->>>>>>> e251195a0cb98a3f790535f935c26233e87e86ed
+ cout << "Naman Gupta" << endl;
+ cout << "Branson Holt" << endl;
 }
-cout << "Tucker Adkison" << endl;
+
