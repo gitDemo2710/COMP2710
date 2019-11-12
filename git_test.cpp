@@ -56,6 +56,7 @@ void display ()
  cout << "Bobby Sharp" << endl;=
  cout << "Nicolas Rios" << endl;
  cout << "Connor Morris" << endl;
+ cout << "Arju Reza" << endl;
  cout << "Bobby Sharp" << endl;
  cout << "John Whaley" << endl;
  cout << "Ravyn Lewis" << endl;
