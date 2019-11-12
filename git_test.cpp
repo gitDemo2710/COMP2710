@@ -1,4 +1,4 @@
-//Quiz7
+/i/Quiz7
 
 #include <iostream>
 using namespace std;
@@ -11,13 +11,29 @@ int main()
 }
 void display ()
 {
- cout << "Devan Thomas" << endl;
  cout << "Xuechao Li" << endl;
-<<<<<<< HEAD
+ cout << "Connor Taylor" << endl;
+ cout << "Justin Tran" << endl;
+ cout << "Ryan Hernandez" << endl;
+cout << "Swati Baskiyar" << endl;
+ cout << "Christopher Acosta" << endl;
  cout << "Fowler Walker" <<endl;
-=======
+ cout << "Haoqian Li" << endl;
+ cout << "Chad Beibide" << endl;
+ cout << "William Hutto" << endl;
+ cout << "Devan Thomas" << endl;
+ cout << "Jonathan Bartlett" << endl;
+ cout << "John Spencer" << endl;
+ cout << "Alfred Spies" << endl;
  cout << "Patrick Roberts" << endl;
 cout << "Rayshaun Bagsby" << endl;
+cout << "Collier Robinson" << endl;
+ cout << "Tucker Adkison" << endl;
+ cout << "Ty Brunner" << endl;
+ cout << "Patrick Spafford" << endl;
+ cout << "Dylan Dunn" << endl;
  cout << "update" << endl;
->>>>>>> e251195a0cb98a3f790535f935c26233e87e86ed
+ cout << "Naman Gupta" << endl;
+ cout << "Branson Holt" << endl;
 }
+
