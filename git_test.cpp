@@ -20,14 +20,9 @@ void display ()
  cout << "Anne Marie Bonadio" << endl;
  cout << "Tyler Hirn" << endl;
  cout << "Jacob Howard" << endl;
-=======
  cout << "Elizabeth Truong" << endl;
-=======
-<<<<<<< HEAD
  cout << "Jason Barbieri" << endl;
-=======
  cout << "Connor Taylor" << endl;
->>>>>>> 62341c901346c8ffda16766ba1a784f13a8d0372
  cout << "Justin Tran" << endl;
  cout << "Ryan Hernandez" << endl;
 cout << "Swati Baskiyar" << endl;
@@ -49,10 +44,8 @@ cout << "Collier Robinson" << endl;
  cout << "update" << endl;
  cout << "Naman Gupta" << endl;
  cout << "Branson Holt" << endl;
-<<<<<<< HEAD
  cout << "Bobby Sharp" << endl;
-=======
  cout << "Connor Morris" << endl;
->>>>>>> 816453741a6b8cf3fb0fb3f4e35eee3f388fd5f3
+
 }
 
