@@ -35,6 +35,7 @@ void display ()
  cout << "Fowler Walker" <<endl;
  cout << "Patrick Roberts" << endl;
  cout << "Tucker Adkison" << endl;
+ cout << "Patrick Spafford" << endl;
  cout << "update" << endl;
 <<<<<<< HEAD
 >>>>>>> e251195a0cb98a3f790535f935c26233e87e86ed
