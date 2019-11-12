@@ -26,7 +26,7 @@ void display ()
  cout << "Connor Taylor" << endl;
  cout << "Justin Tran" << endl;
  cout << "Ryan Hernandez" << endl;
-cout << "Swati Baskiyar" << endl;
+ cout << "Swati Baskiyar" << endl;
  cout << "Christopher Acosta" << endl;
  cout << "Fowler Walker" <<endl;
  cout << "Haoqian Li" << endl;
@@ -37,14 +37,16 @@ cout << "Swati Baskiyar" << endl;
  cout << "John Spencer" << endl;
  cout << "Alfred Spies" << endl;
  cout << "Patrick Roberts" << endl;
-cout << "Rayshaun Bagsby" << endl;
-cout << "Collier Robinson" << endl;
+ cout << "Rayshaun Bagsby" << endl;
+ cout << "Collier Robinson" << endl;
  cout << "Tucker Adkison" << endl;
  cout << "Ty Brunner" << endl;
  cout << "Patrick Spafford" << endl;
  cout << "Dylan Dunn" << endl;
  cout << "Naman Gupta" << endl;
  cout << "Branson Holt" << endl;
+ cout << "Nicolas Rios" << endl;
+ cout << "Connor Morris" << endl;
  cout << "Bobby Sharp" << endl;=
  cout << "Connor Morris" << endl;
 }
