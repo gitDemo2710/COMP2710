@@ -26,7 +26,13 @@ void display ()
  cout << "Tucker Adkison" << endl;
  cout << "Ty Brunner" << endl;
  cout << "Patrick Spafford" << endl;
+<<<<<<< HEAD
 >>>>>>> a3d10a50f1b07790ade890370c642104947671b1
+=======
+ cout << "Dylan Dunn" << endl;
+>>>>>>> 529fbb72e77a54fceb7f7619f0afccd2f3bf9420
  cout << "update" << endl;
+ cout << "Naman Gupta" << endl;
+ cout << "Branson Holt" << endl;
 }
 
