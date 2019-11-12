@@ -12,9 +12,9 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
+ cout << "Craig Manes" << endl;
  cout << "Thomas Hansknecht" << endl;
-<<<<<<< HEAD
-cout << "William Melton" << endl;
+ cout << "William Melton" << endl;
  cout << "Caleb Fahlgren" << endl;
  cout << "Anne Marie Bonadio" << endl;
  cout << "Tyler Hirn" << endl;
