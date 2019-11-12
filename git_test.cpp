@@ -15,7 +15,11 @@ void display ()
  cout << "Xuechao Li" << endl;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  cout << "Christopher Acosta" << endl;
+=======
+ cout << "John Spencer" << endl;
+>>>>>>> e9275bb3855878cf6e954fc9484e389eee485829
 =======
  cout << "Fowler Walker" <<endl;
 >>>>>>> 15c2410f4fed2ce8b5a10d5d61b0daa57695e69d
