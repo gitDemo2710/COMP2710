@@ -18,7 +18,7 @@ void display ()
  cout << "Houston Walley" << endl;
  cout << "Leslie Blair Owens" << endl;
  cout << "Thomas Hansknecht" << endl;
-cout << "William Melton" << endl;
+ cout << "William Melton" << endl;
  cout << "Caleb Fahlgreen" << endl;
  cout << "William Melton" << endl;
  cout << "Caleb Fahlgren" << endl;
