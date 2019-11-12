@@ -12,6 +12,6 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
-<<<<<<< HEAD
  cout << "Justin Tran" << endl;
 }
+
