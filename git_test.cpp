@@ -17,6 +17,7 @@ void display ()
 =======
  cout << "Christopher Acosta" << endl;
  cout << "Fowler Walker" <<endl;
+ cout << "Haoqian Li" << endl;
  cout << "Chad Beibide" << endl;
  cout << "William Hutto" << endl;
  cout << "Devan Thomas" << endl;
