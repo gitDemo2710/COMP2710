@@ -1,4 +1,4 @@
-/i/Quiz7
+//Quiz7
 
 #include <iostream>
 using namespace std;
@@ -13,22 +13,20 @@ void display ()
 {
  cout << "Xuechao Li" << endl;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+ cout << "Madison Austin" << endl;
+>>>>>>> 1570742e71b2432ef32004ac77a67d7f598f4922
  cout << "Leslie Blair Owens" << endl;
  cout << "Thomas Hansknecht" << endl;
-cout << "William Melton" << endl;
+ cout << "William Melton" << endl;
  cout << "Caleb Fahlgren" << endl;
  cout << "Anne Marie Bonadio" << endl;
  cout << "Tyler Hirn" << endl;
  cout << "Jacob Howard" << endl;
-=======
-<<<<<<< HEAD
  cout << "Elizabeth Truong" << endl;
-=======
-<<<<<<< HEAD
  cout << "Jason Barbieri" << endl;
-=======
  cout << "Connor Taylor" << endl;
->>>>>>> 62341c901346c8ffda16766ba1a784f13a8d0372
  cout << "Justin Tran" << endl;
  cout << "Ryan Hernandez" << endl;
 cout << "Swati Baskiyar" << endl;
@@ -42,17 +40,22 @@ cout << "Swati Baskiyar" << endl;
  cout << "John Spencer" << endl;
  cout << "Alfred Spies" << endl;
  cout << "Patrick Roberts" << endl;
+cout << "Rayshaun Bagsby" << endl;
 cout << "Collier Robinson" << endl;
  cout << "Tucker Adkison" << endl;
  cout << "Ty Brunner" << endl;
  cout << "Patrick Spafford" << endl;
  cout << "Dylan Dunn" << endl;
- cout << "update" << endl;
  cout << "Naman Gupta" << endl;
  cout << "Branson Holt" << endl;
+<<<<<<< HEAD
  cout << "Nicolas Rios" << endl;
  cout << "Connor Morris" << endl;
 >>>>>>> 816453741a6b8cf3fb0fb3f4e35eee3f388fd5f3
 >>>>>>> 29bf7110f763b221594d0d6a4489a95889b64caf
+=======
+ cout << "Bobby Sharp" << endl;=
+ cout << "Connor Morris" << endl;
+>>>>>>> 1570742e71b2432ef32004ac77a67d7f598f4922
 }
 
