@@ -25,7 +25,7 @@ void display ()
 <<<<<<< HEAD
  cout<<"panyang chen"<<endl; 
 cout << "Byron Prather" << endl;
-
+ cout<< "Chengren Pen"<<endl;
 =======
 >>>>>>> 0b68d2696bf827ee3ec0de1c5d26795890a9b6d4
 }
