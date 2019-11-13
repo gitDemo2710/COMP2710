@@ -12,11 +12,9 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
-cout << "Nate Henty" << endl;
- cout << "Jonathan Blackburn" << endl;
- cout << "Madison Austin" << endl;
- cout << "Houston Walley" << endl;
- cout << "Leslie Blair Owens" << endl;
+ cout << "Craig Manes" << endl;
+ cout << "Aura Reyna" << endl;
+ cout << "Michael Norwood" << endl;
  cout << "Thomas Hansknecht" << endl;
  cout << "William Melton" << endl;
  cout << "Caleb Fahlgren" << endl;
@@ -24,6 +22,7 @@ cout << "Nate Henty" << endl;
  cout << "Tyler Hirn" << endl;
  cout << "Maggie Shipman" << endl;
  cout << "Jacob Howard" << endl;
+<<<<<<< HEAD
  cout << "Elizabeth Truong" << endl;
  cout << "Jason Barbieri" << endl;
  cout << "Connor Taylor" << endl;
@@ -56,12 +55,8 @@ cout << "Nate Henty" << endl;
 //=======
  cout << "Bobby Sharp" << endl;=
  cout << "Connor Morris" << endl;
-//>>>>>>> 1570742e71b2432ef32004ac77a67d7f598f4922
-
-//=======
  cout << "Bobby Sharp" << endl;
  cout << "Maggie Shipman" << endl;
-
-//>>>>>>> 0748f0347aa3ed1a93fa35acfe6efddab268e9b6
-}
+ cout<<"panyang chen"<<endl;
+ cout << "Byron Prather" << endl;}
 
