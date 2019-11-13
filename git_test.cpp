@@ -15,7 +15,6 @@ void display ()
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
- cout << "Jackson Smith" << endl;
 =======
 =======
 cout << "Swati Baskiyar" << endl;
@@ -71,6 +70,7 @@ cout << "Byron Prather" << endl;
  cout << "Tucker Adkison" << endl;
  cout << "Ty Brunner" << endl;
  cout << "Patrick Spafford" << endl;
+ cout << "Jackson Smith" << endl;
 <<<<<<< HEAD
 >>>>>>> a3d10a50f1b07790ade890370c642104947671b1
 =======
