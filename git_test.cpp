@@ -56,4 +56,5 @@ void display ()
  cout << "Connor Morris" << endl;
  cout << "Bobby Sharp" << endl;
  cout << "Jonathan Blackburn" << endl;
+ cout << "Kevin Brant" << endl;
 }
