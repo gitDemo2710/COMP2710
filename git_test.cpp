@@ -12,9 +12,8 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
-<<<<<<< HEAD
+ cout << "Alex Bonner" << endl;
  cout << "Qinyuan Zhou" << endl;
-=======
  cout << "Swati Baskiyar" << endl;
  cout << "Zikai Zhang" << endl;
  cout << "Leslie Blair Owens" << endl;
