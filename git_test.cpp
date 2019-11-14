@@ -30,7 +30,7 @@ void display ()
  cout << "Jacob Howard" << endl;
  cout << "Byron Prather" << endl;
  cout << "Dylan Dunn" << endl;
- cout << "Update" << endl;
+ cout << "Update " << endl;
  cout << "panyang chen"<<endl;
  cout << "Rayvn Lewis" << endl;
  cout << "Elizabeth Truong" << endl;
