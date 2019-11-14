@@ -24,6 +24,7 @@ void display ()
  cout << "Thomas Hansknecht" << endl;
  cout << "William Melton" << endl;
  cout << "Caleb Fahlgren" << endl;
+ cout << "Qiang Wu" << endl;
  cout << "Anne Marie Bonadio" << endl;
  cout << "Tyler Hirn" << endl;
  cout << "Maggie Shipman" << endl;
