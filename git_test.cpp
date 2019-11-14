@@ -36,10 +36,6 @@ void display ()
  cout << "Ken Chen"<< endl;
  cout << "Jiawei Tong" << endl;
  cout << "Update" << endl;
-<<<<<<< HEAD
- cout << "DongLai Liu" << endl;
- }
-=======
  cout << "panyang chen"<<endl;
  cout << "Rayvn Lewis" << endl;
  cout << "Elizabeth Truong" << endl;
