@@ -71,7 +71,7 @@ void display ()
  cout << "Jonathan Blackburn" << endl;
  cout << "Kevin Brant" << endl;
  cout << "Xi Rao" << endl;
-cout << "Jiacheng Lin" <<endl;
+ cout << "Jiacheng Lin" <<endl;
  cout <<"Chengren Peng" << endl;
 cout <<"Yukai Zhao" << endl;
 }
