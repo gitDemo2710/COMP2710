@@ -12,16 +12,13 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
-<<<<<<< HEAD
  cout << "Alexa Monroe" << endl;
-=======
  cout << "Jordan Harris" << end1;
  cout << "Donglai Liu" << endl;
  cout << "Alex Bonner" << endl;
  cout << "Qinyuan Zhou" << endl;
  cout << "Swati Baskiyar" << endl;
  cout << "Zikai Zhang" << endl;
->>>>>>> f589d4c2246a5f42ffbad1d6b5b846726e312641
  cout << "Leslie Blair Owens" << endl;
  cout << "Craig Manes" << endl;
  cout << "Aura Reyna" << endl;
@@ -39,9 +36,6 @@ void display ()
  cout << "Ken Chen"<< endl;
  cout << "Jiawei Tong" << endl;
  cout << "Update" << endl;
-<<<<<<< HEAD
- }
-=======
  cout << "panyang chen"<<endl;
  cout << "Rayvn Lewis" << endl;
  cout << "Elizabeth Truong" << endl;
@@ -73,11 +67,8 @@ void display ()
  cout << "Jonathan Blackburn" << endl;
  cout << "Kevin Brant" << endl;
  cout << "Xi Rao" << endl;
-<<<<<<< HEAD
 cout << "Jiacheng Lin" <<endl;
-=======
  cout <<"Chengren Peng" << endl;
 cout <<"Yukai Zhao" << endl;
->>>>>>> 945261a14bfe062b8a37c7b030b081d5b3b81f9d
 }
 >>>>>>> f589d4c2246a5f42ffbad1d6b5b846726e312641
