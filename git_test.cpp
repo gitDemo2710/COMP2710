@@ -30,10 +30,8 @@ void display ()
  cout << "Jacob Howard" << endl;
  cout << "Byron Prather" << endl;
  cout << "Dylan Dunn" << endl;
-<<<<<<< HEAD
  cout << "Update" << endl;
-=======
- cout<<"panyang chen"<<endl;
+ cout << "panyang chen"<<endl;
  cout << "Rayvn Lewis" << endl;
  cout << "Elizabeth Truong" << endl;
  cout << "Jason Barbieri" << endl;
@@ -63,5 +61,4 @@ void display ()
  cout << "Bobby Sharp" << endl;
  cout << "Jonathan Blackburn" << endl;
  cout << "Kevin Brant" << endl;
->>>>>>> e7496968e0c9703857b64f588516d7b1f6551a91
 }
