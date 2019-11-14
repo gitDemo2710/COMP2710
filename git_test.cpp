@@ -77,4 +77,5 @@ void display ()
  cout << "JingEn Zhuo"<< endl;
  cout <<"Yukai Zhao" << endl;
  cout << "Drew McDonald" << endl;
+cout<< "Suheng Wu" << endl;
 }
