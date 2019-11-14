@@ -62,5 +62,9 @@ void display ()
  cout << "Jonathan Blackburn" << endl;
  cout << "Kevin Brant" << endl;
  cout << "Xi Rao" << endl;
+<<<<<<< HEAD
 cout << "Jiacheng Lin" <<endl;
+=======
+ cout <<"Chengren Peng" << endl;
+>>>>>>> 945261a14bfe062b8a37c7b030b081d5b3b81f9d
 }
