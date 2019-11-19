@@ -12,6 +12,7 @@ int main()
 void display ()
 {
  cout << "Xuechao Li" << endl;
+ cout << "Paul Poe" << endl;
  cout << "Elliott Glover" << endl;
  cout << "Ryan Nagy" << endl;
  cout << "WeiYu Wang" << endl;
