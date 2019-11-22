@@ -81,4 +81,6 @@ void display ()
  cout << "Chenglin Wu" << endl;
  cout << "Drew McDonald" << endl;
 cout<< "Suheng Wu" << endl;
+ cout << "Lingyi Zhu" << endl;
+}
 }
